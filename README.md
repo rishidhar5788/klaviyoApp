@@ -37,6 +37,6 @@ You can have your .env anywhere in the project but we recommend having it in the
 * PUBLIC_TOKEN=Klaviyo public api key
 * SECRET_KEY=your django app key (can be found in setting.py)
 * NGROK_URL=Your server url
-* SLACK_BOT_TOKEN=slack bot token (one gets generated in slack when you create and app in slack)
+* SLACK_BOT_TOKEN=slack bot token (one gets generated in slack when you create an app in slack)
 * SLACK_BASE_URL=slack api base url
 * SLACK_CHANNL_ID=channel ID where you would want your notifications to be triggered
