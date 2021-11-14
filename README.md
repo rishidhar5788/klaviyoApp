@@ -39,4 +39,4 @@ You can have your .env anywhere in the project but we recommend having it in the
 * NGROK_URL=Your server url
 * SLACK_BOT_TOKEN=slack bot token (one gets generated in slack when you create an app in slack)
 * SLACK_BASE_URL=slack api base url
-* SLACK_CHANNL_ID=channel ID where you would want your notifications to be triggered
+* SLACK_CHANNL_ID=configurable channel ID where you would like your notifications to be triggered
