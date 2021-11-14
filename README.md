@@ -7,7 +7,7 @@ This Django app can be used for two purposes:
 
 ## Description
 
-* This is a project for scheduling a slack notification. Whenever a list is added in Klaviyo, a notification is sent to a channel in slack with the basic list details like name, created and updated date.
+* This is a project for scheduling a slack notification. Whenever a list is added in Klaviyo, a notification is sent to a channel in slack every 30 seconds with the basic list details like name, created and updated date.
 
 * You can use the app to send the user details from a slack slash command and it would subscribe the email to a list mentioned in the slash command:
 
